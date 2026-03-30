@@ -8,7 +8,7 @@ Que vas a observar:
 - Codigo de retorno del proceso hijo.
 
 Como ejecutar:
-- python3 microlecciones/python/03_subprocess/01_intro_subprocess.py
+- python3 /python/03_subprocess/01_intro_subprocess.py
 
 Salida esperada aproximada:
 - [Resultado] Salida del comando: hola desde subprocess

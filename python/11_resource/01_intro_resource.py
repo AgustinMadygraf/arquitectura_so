@@ -8,7 +8,7 @@ Que vas a observar:
 - Consulta de version desde Windows cuando aplica.
 
 Como ejecutar:
-- python3 microlecciones/python/11_resource/01_intro_resource.py
+- python3 /python/11_resource/01_intro_resource.py
 
 Salida esperada aproximada:
 - [Resultado] WSL2 detectado.

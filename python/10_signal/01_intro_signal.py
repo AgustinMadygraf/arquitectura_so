@@ -8,7 +8,7 @@ Que vas a observar:
 - Prueba de senal con signal.raise_signal(...).
 
 Como ejecutar:
-- python3 microlecciones/python/10_signal/01_intro_signal.py
+- python3 /python/10_signal/01_intro_signal.py
 
 Salida esperada aproximada:
 - [Resultado] Senal recibida: 2

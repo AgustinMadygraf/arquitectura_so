@@ -38,7 +38,7 @@ Fuente: `docs/Ord-2018-Diseno-Curricular-TUP-en-Programacion-2024-20.md`
 
 ### 7) Introduccion a redes de datos
 - [x] Intro con `socket`.
-- [ ] Agregar cliente-servidor local completo y pruebas de puerto.
+- [x] Agregar cliente-servidor local completo y pruebas de puerto.
 
 ### 8) Virtualizacion
 - [ ] Crear bloque especifico de virtualizacion.

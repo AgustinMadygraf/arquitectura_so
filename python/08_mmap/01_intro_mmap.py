@@ -8,7 +8,7 @@ Que vas a observar:
 - Lectura del contenido mediante mmap.
 
 Como ejecutar:
-- python3 microlecciones/python/08_mmap/01_intro_mmap.py
+- python3 /python/08_mmap/01_intro_mmap.py
 
 Salida esperada aproximada:
 - [Resultado] Contenido leido con mmap: hola mmap

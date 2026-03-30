@@ -8,7 +8,7 @@ Que vas a observar:
 - Como validar si una ruta existe y si es directorio.
 
 Como ejecutar:
-- python3 microlecciones/python/01_pathlib/01_intro_pathlib.py
+- python3 /python/01_pathlib/01_intro_pathlib.py
 
 Salida esperada aproximada:
 - [Paso 1] Ruta de trabajo detectada

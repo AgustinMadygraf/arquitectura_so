@@ -56,15 +56,15 @@ Herramienta operativa:
 
 ## Estructura
 
-- `microlecciones/python/`: carpetas `NN_libreria/` con scripts `.py`.
-- `microlecciones/bash/`: practicas `.sh`.
-- `microlecciones/powershell/`: practicas `.ps1`.
+- `/python/`: carpetas `NN_libreria/` con scripts `.py`.
+- `/bash/`: practicas `.sh`.
+- `/powershell/`: practicas `.ps1`.
 - `docs/`: guias y plan.
 
 ## Ejecucion (ejemplo)
 
 ```bash
-python3 microlecciones/python/01_pathlib/01_intro_pathlib.py
+python3 /python/01_pathlib/01_intro_pathlib.py
 ```
 
 ## Documentacion

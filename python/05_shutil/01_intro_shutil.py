@@ -7,7 +7,7 @@ Que vas a observar:
 - Espacio total, usado y libre.
 
 Como ejecutar:
-- python3 microlecciones/python/05_shutil/01_intro_shutil.py
+- python3 /python/05_shutil/01_intro_shutil.py
 
 Salida esperada aproximada:
 - [Resultado] Total: ... bytes (... GB)

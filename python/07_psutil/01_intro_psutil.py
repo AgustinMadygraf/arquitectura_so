@@ -8,7 +8,7 @@ Que vas a observar:
 - Instruccion de instalacion si falta el modulo.
 
 Como ejecutar:
-- python3 microlecciones/python/07_psutil/01_intro_psutil.py
+- python3 /python/07_psutil/01_intro_psutil.py
 
 Salida esperada aproximada:
 - [Resultado] psutil esta instalado correctamente.

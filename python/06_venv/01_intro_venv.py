@@ -8,7 +8,7 @@ Que vas a observar:
 - Comandos para crear/activar el entorno.
 
 Como ejecutar:
-- python3 microlecciones/python/06_venv/01_intro_venv.py
+- python3 /python/06_venv/01_intro_venv.py
 
 Salida esperada aproximada:
 - [Resultado] Entorno virtual detectado. (o no detectado)

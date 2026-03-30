@@ -8,7 +8,7 @@ Que vas a observar:
 - IP asociada al host.
 
 Como ejecutar:
-- python3 microlecciones/python/09_socket/01_intro_socket.py
+- python3 /python/09_socket/01_intro_socket.py
 
 Salida esperada aproximada:
 - [Resultado] Host: ...

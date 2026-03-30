@@ -8,7 +8,7 @@ Que vas a observar:
 - Variable personal HOME/USERPROFILE segun sistema.
 
 Como ejecutar:
-- python3 microlecciones/python/02_os/01_intro_os.py
+- python3 /python/02_os/01_intro_os.py
 
 Salida esperada aproximada:
 - [Resultado] Directorio de trabajo: ...

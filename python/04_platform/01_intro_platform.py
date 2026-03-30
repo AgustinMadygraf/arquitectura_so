@@ -8,7 +8,7 @@ Que vas a observar:
 - Version del kernel/sistema.
 
 Como ejecutar:
-- python3 microlecciones/python/04_platform/01_intro_platform.py
+- python3 /python/04_platform/01_intro_platform.py
 
 Salida esperada aproximada:
 - [Resultado] Sistema: Linux
