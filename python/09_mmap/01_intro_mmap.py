@@ -8,7 +8,7 @@ Que vas a observar:
 - Lectura del contenido mediante mmap.
 
 Como ejecutar:
-- python3 /python/08_mmap/01_intro_mmap.py
+- python3 /python/09_mmap/01_intro_mmap.py
 
 Salida esperada aproximada:
 - [Resultado] Contenido leido con mmap: hola mmap
@@ -38,3 +38,4 @@ print("[Resultado] Contenido leido con mmap:", contenido)
 
 print("[Ejercicio] Cambia el texto 'hola mmap' por otro y verifica la lectura final.")
 print("[Pregunta] ¿En que carpeta se crea el archivo de prueba de esta microleccion?")
+

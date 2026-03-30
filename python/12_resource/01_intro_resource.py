@@ -8,7 +8,7 @@ Que vas a observar:
 - Consulta de version desde Windows cuando aplica.
 
 Como ejecutar:
-- python3 /python/11_resource/01_intro_resource.py
+- python3 /python/12_resource/01_intro_resource.py
 
 Salida esperada aproximada:
 - [Resultado] WSL2 detectado.
@@ -94,3 +94,4 @@ else:
 
 print("[Ejercicio] Ejecuta este script en Windows y luego dentro de WSL2; compara salida.")
 print("[Pregunta] ¿Que comando se sugiere para instalar WSL2 si no se detecta?")
+

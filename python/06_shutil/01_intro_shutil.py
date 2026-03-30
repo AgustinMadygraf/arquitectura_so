@@ -7,7 +7,7 @@ Que vas a observar:
 - Espacio total, usado y libre.
 
 Como ejecutar:
-- python3 /python/05_shutil/01_intro_shutil.py
+- python3 /python/06_shutil/01_intro_shutil.py
 
 Salida esperada aproximada:
 - [Resultado] Total: ... bytes (... GB)
@@ -33,3 +33,4 @@ print(f"[Resultado] Libre: {uso.free} bytes ({libre_gb:.2f} GB)")
 
 print("[Ejercicio] Calcula tambien los valores en MB y compáralos con GB.")
 print("[Pregunta] ¿Que diferencia hay entre espacio usado y libre?")
+

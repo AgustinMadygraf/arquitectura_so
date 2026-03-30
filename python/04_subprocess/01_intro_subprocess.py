@@ -8,7 +8,7 @@ Que vas a observar:
 - Codigo de retorno del proceso hijo.
 
 Como ejecutar:
-- python3 /python/03_subprocess/01_intro_subprocess.py
+- python3 /python/04_subprocess/01_intro_subprocess.py
 
 Salida esperada aproximada:
 - [Resultado] Salida del comando: hola desde subprocess
@@ -36,3 +36,4 @@ print("[Resultado] Codigo de retorno:", resultado.returncode)
 
 print("[Ejercicio] Cambia el texto del comando echo y verifica la nueva salida.")
 print("[Pregunta] ¿Que indica un returncode igual a 0?")
+

@@ -8,7 +8,7 @@ Que vas a observar:
 - Prueba de senal con signal.raise_signal(...).
 
 Como ejecutar:
-- python3 /python/10_signal/01_intro_signal.py
+- python3 /python/11_signal/01_intro_signal.py
 
 Salida esperada aproximada:
 - [Resultado] Senal recibida: 2
@@ -51,3 +51,4 @@ while True:
 
 print("[Ejercicio] Ejecuta PROBAR dos veces y verifica el contador de interrupciones.")
 print("[Pregunta] ¿Cual es la diferencia entre una senal y una excepcion?")
+

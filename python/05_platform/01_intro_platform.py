@@ -8,7 +8,7 @@ Que vas a observar:
 - Version del kernel/sistema.
 
 Como ejecutar:
-- python3 /python/04_platform/01_intro_platform.py
+- python3 /python/05_platform/01_intro_platform.py
 
 Salida esperada aproximada:
 - [Resultado] Sistema: Linux
@@ -29,3 +29,4 @@ print("[Resultado] Version:", version)
 
 print("[Ejercicio] Ejecuta el script en otro entorno (Windows/WSL2) y compara system/release.")
 print("[Pregunta] ¿Para que sirve conocer platform.system() antes de ejecutar comandos?")
+

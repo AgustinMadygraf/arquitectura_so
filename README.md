@@ -26,6 +26,7 @@ Si sos estudiante, usalo como guia de practica paso a paso.
 Estandar:
 - `pathlib`
 - `os`
+- `sys`
 - `subprocess`
 - `platform`
 - `shutil`
@@ -44,15 +45,16 @@ Herramienta operativa:
 
 1. `pathlib`
 2. `os`
-3. `subprocess`
-4. `platform`
-5. `shutil`
-6. `venv`
-7. `psutil`
-8. `mmap`
-9. `socket`
-10. `signal`
-11. `resource` (al final)
+3. `sys`
+4. `subprocess`
+5. `platform`
+6. `shutil`
+7. `venv`
+8. `psutil`
+9. `mmap`
+10. `socket`
+11. `signal`
+12. `resource` (al final)
 
 ## Estructura
 

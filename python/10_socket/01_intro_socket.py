@@ -8,7 +8,7 @@ Que vas a observar:
 - IP asociada al host.
 
 Como ejecutar:
-- python3 /python/09_socket/01_intro_socket.py
+- python3 /python/10_socket/01_intro_socket.py
 
 Salida esperada aproximada:
 - [Resultado] Host: ...
@@ -37,3 +37,4 @@ else:
 
 print("[Ejercicio] Ejecuta el script en otra red y compara la IP detectada.")
 print("[Pregunta] ¿Por que la IP asociada al host puede cambiar?")
+

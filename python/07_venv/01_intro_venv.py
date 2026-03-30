@@ -8,7 +8,7 @@ Que vas a observar:
 - Comandos para crear/activar el entorno.
 
 Como ejecutar:
-- python3 /python/06_venv/01_intro_venv.py
+- python3 /python/07_venv/01_intro_venv.py
 
 Salida esperada aproximada:
 - [Resultado] Entorno virtual detectado. (o no detectado)
@@ -38,3 +38,4 @@ else:
 
 print("[Ejercicio] Activa un venv y vuelve a ejecutar para comparar la salida.")
 print("[Pregunta] ¿Que variable de entorno usa el script para detectar venv activo?")
+

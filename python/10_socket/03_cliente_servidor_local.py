@@ -9,7 +9,7 @@ Que vas a observar:
 - Verificacion de puerto abierto/cerrado.
 
 Como ejecutar:
-- python3 /python/09_socket/03_cliente_servidor_local.py
+- python3 /python/10_socket/03_cliente_servidor_local.py
 
 Concepto SO relacionado:
 - Gestion de sockets y puertos TCP por el kernel.
@@ -78,3 +78,4 @@ else:
 
 print("[Ejercicio] Cambia 'pong' por 'ok' en el servidor y valida la respuesta del cliente.")
 print("[Pregunta] ¿Que ventaja tiene usar puerto 0 en laboratorio local?")
+
